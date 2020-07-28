@@ -74,3 +74,16 @@
     -View departments, roles, employees
 
     -Update employee roles
+
+#  Built Using
+
+* [Visual Studio Code] https://code.visualstudio.com/docs/setup/setup-overview
+      -[Visual Studio Code Extension "Open in Browser"]
+      - Open VS Code.
+      - Open the extensions pane and search for open in browser.
+      - Select the version written by TechER and click Install.
+* Git Terminal (https://git-scm.com/downloads)
+* Node (https://nodejs.org/en/download/)
+      - inqiurer
+* mysql
+    - console.table
