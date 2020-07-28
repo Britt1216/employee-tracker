@@ -96,11 +96,8 @@
 # Code to link to MySQL
 
 <br />
-
-  <h3 align="center">Good ReadMe </h3>
-
-  <p align="center">
+  <p align="center"> 
 <br />
-<img src="sql link.PNG" alt="SQL coding" id="code for linking MySQL" height="200px" width="200px">
+<img src="sql link.PNG" alt="SQL coding" id="code for linking MySQL" height="1000px" width="2000px">
  
 </p>
