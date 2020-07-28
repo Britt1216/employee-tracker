@@ -98,6 +98,6 @@
 <br />
   <p align="center"> 
 <br />
-<img src="sql link.PNG" alt="SQL coding" id="code for linking MySQL" height="1000px" width="2000px">
+<img src="sql link.PNG" alt="SQL coding" id="code for linking MySQL" height="500px" width="2000px">
  
 </p>
