@@ -39,7 +39,12 @@
 
     -name - VARCHAR(30) to hold department name
     
-    
+    <br />
+  <p align="center"> 
+<br />
+<img src="departments.PNG" alt="coding for deparments" id="code for department information" height="500px" width="2000px">
+ 
+</p>
 
 * role:
 
@@ -50,6 +55,13 @@
     -salary -  DECIMAL to hold role salary
 
     -department_id -  INT to hold reference to department role belongs to
+
+    <br />
+  <p align="center"> 
+<br />
+<img src="roles.PNG" alt="coding for role" id="code for role information" height="500px" width="2000px">
+ 
+</p>
 
 *  employee:
 
@@ -62,6 +74,14 @@
     -role_id - INT to hold reference to role employee has
 
     -manager_id - INT to hold reference to another employee that manager of the current employee. This field may be null if the employee has no manager
+
+    <br />
+  <p align="center"> 
+<br />
+
+<img src="employee.PNG" alt="coding for employee" id="code for gathering" height="500px" width="2000px">
+ 
+</p>
 
 
 # Minimun Requirements:
