@@ -29,6 +29,10 @@
    * npm install console-table
    
 6. Then use your Git terminal to execute index.js. 
+
+# Code to link to MySQL
+
+
   
 # Tables (within the code)
 
@@ -37,6 +41,8 @@
     -id - INT PRIMARY KEY
 
     -name - VARCHAR(30) to hold department name
+    
+    
 
 * role:
 
