@@ -30,7 +30,7 @@
    
 6. Then use your Git terminal to execute index.js. 
   
-# tables (within the code)
+# Tables (within the code)
 
 * department:
 
