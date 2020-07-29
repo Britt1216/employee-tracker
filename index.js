@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-let Database = require("./sync");
+let Database = require("./async");
 let cTable = require("console.table");
 
 const db = new Database({
@@ -7,7 +7,7 @@ const db = new Database({
     port: 3306,
     user: "root",
     password: "root",
-    database: "cms"
+    database: "employee_tracker_db" 
   });
   
 /*
