@@ -4,4 +4,6 @@ CREATE DATABASE employee_tracker;
 USE employee_tracker;
 
 CREATE TABLE employees ( 
-name VARCHAR(20) NOT NULL,
+name VARCHAR(20) NOT NULL
+
+);
