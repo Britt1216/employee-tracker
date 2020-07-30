@@ -42,7 +42,7 @@
     <br />
   <p align="center"> 
 <br />
-<img src="./assets./departments.PNG" alt="coding for deparments" id="code for department information" height="500px" width="2000px">
+<img src="./departments.PNG" alt="coding for deparments" id="code for department information" height="500px" width="2000px">
  
 </p>
 
