@@ -59,7 +59,7 @@
     <br />
   <p align="center"> 
 <br />
-<img src="./assets/roles.PNG" alt="coding for role" id="code for role information" height="500px" width="2000px">
+<img src="./roles.PNG" alt="coding for role" id="code for role information" height="500px" width="2000px">
  
 </p>
 
@@ -79,7 +79,7 @@
   <p align="center"> 
 <br />
 
-<img src="./assets/employee.PNG" alt="coding for employee" id="code for gathering" height="500px" width="2000px">
+<img src="./employee.PNG" alt="coding for employee" id="code for gathering" height="500px" width="2000px">
  
 </p>
 
@@ -116,6 +116,6 @@
 <br />
   <p align="center"> 
 <br />
-<img src="./assets/sql link.PNG" alt="SQL coding" id="code for linking MySQL" height="500px" width="2000px">
+<img src="./sql link.PNG" alt="SQL coding" id="code for linking MySQL" height="500px" width="2000px">
  
 </p>
